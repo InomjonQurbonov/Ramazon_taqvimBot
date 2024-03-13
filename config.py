@@ -1,0 +1,5 @@
+BOT_TOKEN = "7165701078:AAFDGPQbeBAK4gnzA3EGuMV2qJmm2WcRlAw"
+
+admins = [1906306745]
+
+DB_NAME = "taqvim.db"
